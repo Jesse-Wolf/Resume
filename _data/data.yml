@@ -65,9 +65,9 @@ education:
 experiences:
     - role: Computer Science Tutor
       time: August 2018 - Present
-      company: MiraCosta Community College; Oceanside, CA
+      company: MiraCosta Community College: Oceanside, CA
       details: |
-        Tutor my fellow students within the STEM center of our library. Specifically help 
+        Tutor students within the STEM center of Mira Costa's library. Specifically help 
         Computer Science students current enrolled in Java 1, Java 2, or Android Development.
 
           - Bullet point
@@ -75,7 +75,7 @@ experiences:
           
     - role: Solar Installation Tech/ Apprentice Electrician
       time: June 2017 - August 2018
-      company: Asgard Energy; Escondido, CA
+      company: Asgard Energy: Escondido, CA
       details: |
          Assisted a C-10 electrician with day to day projects. Installed custom designed residential
          solar systems as well as interior electrical remodel work.
@@ -85,23 +85,23 @@ experiences:
           
     - role: Logistics Specialist
       time: June 2012 - June 2017
-      company: United States Air Force; Hurlburt Field, FL
+      company: United States Air Force: Hurlburt Field, FL
       details: |
          Fulfilled a range of supply duties including but not limited to inventory, ordering and 
-         tracking of mission required parts. Worked within warehouse operations as well as supply
+         tracking of mission required parts. Worked within warehouse operations as well as a supply
          liason at a maintenance squadron. 
 
           - Bullet point
           - Bullet point 
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #title: Projects
+    #intro: >
+    #  You can list your side projects or open source libraries in this
+    #  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #  Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    assignments:
+    #assignments:
       - title: Sudoku 2.0
         #link: "#hook"
         tagline: "A sudoku game I created for my Java 2 final project. JAR file is included, feel free to take it for a spin."
