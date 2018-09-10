@@ -39,16 +39,16 @@ sidebar:
       - item: Programming
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+#career-profile:
+#    title: Career Profile
+#    summary: |
+#      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. You can [download this free resume/CV template here]().
+#      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#      Donec quam felis, ultricies nec, pellentesque eu.
 
-      Second paragraph if required.
+#      Second paragraph if required.
 
 education:
     - degree: B.S in Computer Science
@@ -68,7 +68,7 @@ experiences:
       company: MiraCosta Community College; Oceanside, CA
       details: |
         Tutor students within the STEM center of Mira Costa's library. Specifically help 
-        Computer Science students current enrolled in Java 1, Java 2, or Android Development.
+        Computer Science students currently enrolled in Java 1, Java 2, or Android Development.
 
           - Bullet point
           - Bullet point
