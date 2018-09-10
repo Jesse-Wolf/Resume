@@ -95,13 +95,13 @@ experiences:
           - Bullet point 
 
 projects:
-    #title: Projects
-    #intro: >
-    #  You can list your side projects or open source libraries in this
-    #  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #  Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    #assignments:
+    assignments:
       - title: Sudoku 2.0
         #link: "#hook"
         tagline: "A sudoku game I created for my Java 2 final project. JAR file is included, feel free to take it for a spin."
