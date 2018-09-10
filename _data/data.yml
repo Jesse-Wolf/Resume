@@ -97,8 +97,8 @@ experiences:
          tracking of mission required parts. Worked within warehouse operations as well as a supply
          liason at a maintenance squadron. 
 
-          - Air Force Commendation Medal(2015-2016)
-          - (2) Air Force Achievement Medals(2014/2012-2016)
+          - Air Force Commendation Medal (2015-2016)
+          - (2) Air Force Achievement Medals (2014/2012-2016)
 
 projects:
     title: Projects
@@ -109,8 +109,7 @@ projects:
       - title: Sudoku
         #link: "#hook"
         tagline: "A sudoku game I created for my Java 2 final project. JAR file is included, feel free to take it for a spin."
-        
-    assignments:
+       
       - title: Screeps
         #link: "#hook"
         tagline: "My files for a javascript game that I play. I use it as a learning experience so my code needs a lot of work."
