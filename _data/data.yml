@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jesse Wolf
@@ -63,15 +63,24 @@ education:
           - Dean's List Spring 2018
 
 experiences:
+    - role: Supplemental Instruction Leader
+      time: August 2018 - Present
+      company: MiraCosta Community College; Oceanside, CA
+      details: |
+        Lead a small group of students in discussion and group activities designed to
+        solidify their knowledge in the subject matter. Also sit with the students during
+        their normal lecture time, answering any questions they may have during normal
+        class.
+
+          - Currently Supplemental Instruction Leader for the Intro to Java Course at Mira Costa
+          
     - role: Computer Science Tutor
       time: August 2018 - Present
       company: MiraCosta Community College; Oceanside, CA
       details: |
-        Tutor students within the STEM center of Mira Costa's library. Specifically help 
-        Computer Science students currently enrolled in Java 1, Java 2, or Android Development.
+        Tutor students within the STEM center of Mira Costa's library.
 
-          - Bullet point
-          - Bullet point
+          - Currently Tutoring for Java 1, Java 2, and Android Development.
           
     - role: Solar Installation Tech/ Apprentice Electrician
       time: June 2017 - August 2018
@@ -79,9 +88,6 @@ experiences:
       details: |
          Assisted a C-10 electrician with day to day projects. Installed custom designed residential
          solar systems as well as interior electrical remodel work.
-
-          - Bullet point
-          - Bullet point
           
     - role: Logistics Specialist
       time: June 2012 - June 2017
@@ -91,20 +97,23 @@ experiences:
          tracking of mission required parts. Worked within warehouse operations as well as a supply
          liason at a maintenance squadron. 
 
-          - Bullet point
-          - Bullet point 
+          - Air Force Commendation Medal(2015-2016)
+          - (2) Air Force Achievement Medals(2014/2012-2016)
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Below are a few of my current or completed projects.
 
     assignments:
-      - title: Sudoku 2.0
+      - title: Sudoku
         #link: "#hook"
         tagline: "A sudoku game I created for my Java 2 final project. JAR file is included, feel free to take it for a spin."
+        
+    assignments:
+      - title: Screeps
+        #link: "#hook"
+        tagline: "My files for a javascript game that I play. I use it as a learning experience so my code needs a lot of work."
 
 skills:
     title: Skills &amp; Proficiency
