@@ -107,7 +107,7 @@ projects:
 
     assignments:
       - title: Sudoku
-        link: "Sudoku2.0"
+        link: "./Sudoku2.0"
         tagline: "A sudoku game I created for my Java 2 final project. JAR file is included, feel free to take it for a spin."
        
       - title: Screeps
