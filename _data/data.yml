@@ -15,7 +15,7 @@ sidebar:
     email: jessetwolf2@gmail.com
     #phone: 012 345 6789
     #website: blog.webjeda.com #do not add http://
-    linkedin: jesse-wolf27/
+    linkedin: jesse-wolf27
     github: Jesse-Wolf
     #gitlab:
     #bitbucket:
@@ -107,7 +107,7 @@ projects:
 
     assignments:
       - title: Sudoku
-        link: (https://github.com/Jesse-Wolf/Sudoku2.0)
+        link: Sudoku2.0
         tagline: "A sudoku game I created for my Java 2 final project. JAR file is included, feel free to take it for a spin."
        
       - title: Screeps
