@@ -110,9 +110,9 @@ projects:
         link: "https://github.com/Jesse-Wolf/Sudoku2.0"
         tagline: "A sudoku game I created for my Java 2 final project. JAR file is included, feel free to take it for a spin."
        
-      - title: Screeps
-        link: "https://github.com/Jesse-Wolf/Screeps"
-        tagline: "My files for a javascript game that I play with a few friends. I use it as a learning experience so my code needs a lot of work."
+      #- title: Screeps
+      #  link: "https://github.com/Jesse-Wolf/Screeps"
+      #  tagline: "My files for a javascript game that I play with a few friends. I use it as a learning experience so my code needs a lot of work."
 
 skills:
     title: Skills &amp; Proficiency
